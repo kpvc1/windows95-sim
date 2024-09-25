@@ -1,7 +1,7 @@
 {
-  "name": "windows95-sim",
+  "name": "windows95_sim",
   "version": "0.1.0",
-  "homepage": "https://kpvc1.github.io/windows95-sim",
+  "homepage": "https://kpvc1.github.io/windows95_sim",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
