@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/windows95_sim/static/css/main.732ab399.css",
+    "main.js": "/windows95_sim/static/js/main.166e5dea.js",
+    "static/js/453.b0b32e75.chunk.js": "/windows95_sim/static/js/453.b0b32e75.chunk.js",
+    "static/media/bg-foreground.png": "/windows95_sim/static/media/bg-foreground.b06fad55fa29f48bd718.png",
+    "index.html": "/windows95_sim/index.html",
+    "main.732ab399.css.map": "/windows95_sim/static/css/main.732ab399.css.map",
+    "main.166e5dea.js.map": "/windows95_sim/static/js/main.166e5dea.js.map",
+    "453.b0b32e75.chunk.js.map": "/windows95_sim/static/js/453.b0b32e75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732ab399.css",
+    "static/js/main.166e5dea.js"
+  ]
+}
